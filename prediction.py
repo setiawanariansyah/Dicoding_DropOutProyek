@@ -1,4 +1,5 @@
 import joblib
+from sklearn.ensemble import GradientBoostingClassifier
 
 model = joblib.load("Model/gboost_model.joblib")
 result_target = joblib.load("Model/encoder_target.joblib")
