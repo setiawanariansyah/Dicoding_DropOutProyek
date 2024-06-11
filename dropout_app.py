@@ -3,6 +3,7 @@ import pandas as pd
 import joblib
 from data_preprocessing import *
 from prediction import prediction
+from sklearn.ensemble import GradientBoostingClassifier
 
 col1, col2 = st.columns([1, 5])
 with col1:
