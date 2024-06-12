@@ -48,6 +48,7 @@ Langkah untuk menjalankan sistem machine learning:
 ```
 streamlit run dropout_app.py
 ```
+Link streamlit: https://dicodingdropoutproyek.streamlit.app/
 
 ## Conclusion
 Berdasarkan hasil proyek, terdapat beberapa kesimpulan yang bisa diambil:
